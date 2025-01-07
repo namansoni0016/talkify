@@ -67,7 +67,7 @@ const ProfilePage = () => {
                 </div>
             </div>
         </div>
-    )
+    );
 }
 
 export default ProfilePage;
